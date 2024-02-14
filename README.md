@@ -8,6 +8,8 @@ Project demo link: https://orange-dune-02928b010.3.azurestaticapps.net/
 Some of the image taken while developing the project ( steps followed):
 
 Creating the storage accounts image
+![image](https://github.com/Kamalchinta/WUHAN-VIRUS/assets/111065921/1176d388-30a5-49f8-9065-2d21eab8b06e)
+
 2.Uploading files to container image
 
 creating the language resource image
